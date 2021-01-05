@@ -4,3 +4,7 @@ NFC Board can be found on https://www.amazon.com/Adafruit-Controller-Shield-Ardu
 
 
 You will need upload SerialReader into Raspberry Pi, then run the Python code.
+
+Assuming you have proper connection between Raspberry Pi and NFC board, then you can upload SerialReader to Raspberry Pi. The original readMifare.pde is owned by Adafruit industries, I only kept things I need for my project which became the SerialReader file.
+
+The NFC Reader file needs access to a database in order to compare data with reading results.
