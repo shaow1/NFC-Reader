@@ -1,5 +1,5 @@
 # NFC-Reader
-This feature was part of a project I did for my Software Engineering class. This project is called Easy Book a system we designed to help speed up Library's rent and return process. This project contains three parts: A mobile application for user to scan for renting books, A database which stores all relevant book informations and A return station.  
+This feature was part of a project I did for my Software Engineering class in a group of 4. This project is called Easy Book a system we designed to help speed up Library's rent and return process. This project contains three parts: A mobile application for user to scan for renting books, A database which stores all relevant book informations and A return station.  
 
 Raspberry Pi + NFC Board + Programmable NFC Tags
 NFC Board can be found on https://www.amazon.com/Adafruit-Controller-Shield-Arduino-Extras/dp/B00IQY2P82/ref=sr_1_3?dchild=1&keywords=adafruit+pn532&qid=1609876216&sr=8-3
